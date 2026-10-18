@@ -2,14 +2,14 @@
 <div align="center">
   <img width="100%" src="https://raw.githubusercontent.com/Natan-Asrat/Natan-Asrat/main/API.gif"  />
 </div> -->
-<p align="center">
-  <h2>Video Introduction</h2><br>
-  👇 <i>Click the thumbnail below to watch</i> 👇
-</p>
-
-<a href="https://youtu.be/eEHe8RWzfpg" target="_blank">
-  <img src="https://img.youtube.com/vi/eEHe8RWzfpg/maxresdefault.jpg" alt="Video Introduction" width="80%">
-</a>
+<div align="center">
+  <div style="font-size: 24px; font-weight: bold; margin-bottom: 6px;">Video Introduction</div>
+  <div style="margin-bottom: 12px;">👇 <i>Click the thumbnail below to watch</i> 👇</div>
+  
+  <a href="https://youtu.be/eEHe8RWzfpg" target="_blank">
+    <img src="https://img.youtube.com/vi/eEHe8RWzfpg/maxresdefault.jpg" alt="Video Introduction" width="80%">
+  </a>
+</div>
 
 ###
 
