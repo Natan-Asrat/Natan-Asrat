@@ -7,11 +7,9 @@
   👇 <i>Click the thumbnail below to watch</i> 👇
 </p>
 
-<p align="center">
-  <a href="https://youtu.be/eEHe8RWzfpg" target="_blank">
-    <img src="https://img.youtube.com/vi/eEHe8RWzfpg/maxresdefault.jpg" alt="Video Introduction" width="80%">
-  </a>
-</p>
+<a href="https://youtu.be/eEHe8RWzfpg" target="_blank">
+  <img src="https://img.youtube.com/vi/eEHe8RWzfpg/maxresdefault.jpg" alt="Video Introduction" width="80%">
+</a>
 
 ###
 
