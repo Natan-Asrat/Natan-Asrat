@@ -2,7 +2,8 @@
   <img width="100%" src="https://raw.githubusercontent.com/Natan-Asrat/Natan-Asrat/main/API.gif"  />
 </div>
 
-### 🎥 [👉 Video Introduction Here 👈](https://youtu.be/eEHe8RWzfpg)
+[![Watch my video introduction](https://img.youtube.com/vi/eEHe8RWzfpg/maxresdefault.jpg)](https://youtu.be/eEHe8RWzfpg)
+
 ###
 
 <div align="center">
