@@ -2,9 +2,16 @@
 <div align="center">
   <img width="100%" src="https://raw.githubusercontent.com/Natan-Asrat/Natan-Asrat/main/API.gif"  />
 </div> -->
+<p align="center">
+  <b>👉 Video Introduction Here 👈</b><br>
+  👇 <i>Click the thumbnail below to watch</i> 👇
+</p>
 
-[![Watch my video introduction](https://img.youtube.com/vi/eEHe8RWzfpg/maxresdefault.jpg)](https://youtu.be/eEHe8RWzfpg)
-
+<p align="center">
+  <a href="https://youtu.be/eEHe8RWzfpg" target="_blank">
+    <img src="https://img.youtube.com/vi/eEHe8RWzfpg/maxresdefault.jpg" alt="Video Introduction" width="80%">
+  </a>
+</p>
 ###
 
 <div align="center">
