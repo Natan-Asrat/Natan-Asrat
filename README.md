@@ -3,7 +3,7 @@
   <img width="100%" src="https://raw.githubusercontent.com/Natan-Asrat/Natan-Asrat/main/API.gif"  />
 </div> -->
 <p align="center">
-  <b>Video Introduction</b><br>
+  <h2>Video Introduction</h2><br>
   👇 <i>Click the thumbnail below to watch</i> 👇
 </p>
 
